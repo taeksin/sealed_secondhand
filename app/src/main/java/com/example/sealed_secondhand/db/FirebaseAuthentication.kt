@@ -22,7 +22,7 @@ class FirebaseAuthentication private constructor() {
         }
 
         fun doLogin(userEmail: String, password: String): Task<AuthResult> {
-            Log.i("hi","doLogin")
+            Log.i("hii","doLogin")
             return Firebase.auth.signInWithEmailAndPassword(userEmail, password)
         }
 
