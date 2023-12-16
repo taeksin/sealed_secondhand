@@ -30,7 +30,8 @@ rlaxortls
 
 ---
 
-<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=Kotlin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 
 <br>
 
